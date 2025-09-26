@@ -1,14 +1,19 @@
 # Google Advanced Data Analytics — Projects
 
-A concise collection of projects and materials from the **Google Advanced Data Analytics Professional Certificate (Coursera)**.  
+A concise collection of projects and materials from the **Google Advanced Data Analytics Professional Certificate**.  
 Focus areas: **Python, SQL, EDA, visualization, and predictive modeling**.
-
+    
 ## Structure
-- `data/` — datasets (ignored in git; use `.gitkeep` for empty dirs)
+- `data/` — datasets
 - `notebooks/` — Jupyter notebooks
-- `scripts/` — helper scripts (ETL, feature engineering, training)
-- `reports/` — findings and figures (`reports/figures/`)
 - `requirements.txt` — dependencies
 
-
+## Courses
+- [x] Foundations of Data Science 
+- [x] Get Started with Python
+- [x] Go Beyond the Numbers: Translate Data into Insights
+- [ ] The Power of Statistics
+- [ ] Regression Analysis: Simplify Complex Data Relationships
+- [ ] The Nuts and Bolts of Machine Learning
+- [ ] Google Advanced Data Analytics Capstone
 
