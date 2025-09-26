@@ -1,4 +1,4 @@
-# Google Advanced Data Analytics — Projects
+# Google Advanced Data Analytics
 
 A concise collection of projects and materials from the **Google Advanced Data Analytics Professional Certificate**.  
 Focus areas: **Python, SQL, EDA, visualization, and predictive modeling**.
@@ -9,11 +9,12 @@ Focus areas: **Python, SQL, EDA, visualization, and predictive modeling**.
 - `requirements.txt` — dependencies
 
 ## Courses
-- [x] Foundations of Data Science 
-- [x] Get Started with Python
-- [x] Go Beyond the Numbers: Translate Data into Insights
-- [ ] The Power of Statistics
-- [ ] Regression Analysis: Simplify Complex Data Relationships
-- [ ] The Nuts and Bolts of Machine Learning
-- [ ] Google Advanced Data Analytics Capstone
+- ✅ Foundations of Data Science 
+- ✅ Get Started with Python
+- 🟠 Go Beyond the Numbers: Translate Data into Insights (in progress)
+- ⬜ The Power of Statistics
+- ⬜ Regression Analysis: Simplify Complex Data Relationships
+- ⬜ The Nuts and Bolts of Machine Learning
+- ⬜ Google Advanced Data Analytics Capstone
+
 
