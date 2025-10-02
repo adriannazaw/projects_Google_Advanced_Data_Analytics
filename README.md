@@ -11,8 +11,8 @@ Focus areas: **Python, SQL, EDA, visualization, and predictive modeling**.
 ## Courses
 - ✅ Foundations of Data Science 
 - ✅ Get Started with Python
-- 🟠 Go Beyond the Numbers: Translate Data into Insights (in progress)
-- ⬜ The Power of Statistics
+- ✅ Go Beyond the Numbers: Translate Data into Insights
+- 🟠 The Power of Statistics (in progress)
 - ⬜ Regression Analysis: Simplify Complex Data Relationships
 - ⬜ The Nuts and Bolts of Machine Learning
 - ⬜ Google Advanced Data Analytics Capstone
