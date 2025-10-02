@@ -1,6 +1,6 @@
-#### Notebooks
+## **Notebooks**
 
-##### Automatidata
+### **Automatidata**
 1) **Automatidata_01_Activity_Course_2_project_lab.ipynb**\
 **Course:** 02 Get started with Python\
 Initial analysis of dataset. 
@@ -8,7 +8,7 @@ Initial analysis of dataset.
 **Course:** 03 Go Beyond the Numbers Translate Data into Insights\
 Understanding data + insights
 
-##### Waze
+### **Waze**
 1) **Waze_01_Activity_Course_2__project_lab 2_Waze_project_lab**\
 **Course:** 02 Get started with Python\
 Initial analysis of dataset.
